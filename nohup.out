@@ -1,0 +1,12 @@
+Starting SumatraPDF, GetCommandLineW():
+C:\Users\tang\AppData\Local\SumatraPDF\SumatraPDF.exe FBDetect-SOSP24.pdf
+OpenEmbeddedFilesArchive: opened archive
+prefs::Load() took 0.55 ms
+ParseTranslationsTxt: 19181 lines, nStrings: 357
+LoadDocument: 6.02 ms, 19 pages for 'C:\cygwin64\home\tang\github\tangchq74.github.io\FBDetect-SOSP24.pdf'
+DisplayModel::BuildPagesInfo started
+DisplayModel::BuildPagesInfo took 0.00 ms
+StartMonitoringDirForChangesAPC() C:\cygwin64\home\tang\github\tangchq74.github.io
+StartMonitoringDirForChangesAPC() C:\Users\tang\AppData\Local\SumatraPDF
+~EngineMupdf: 0x000002172405B380
+Calling PostQuitMessage() in CloseWindow() because closing lastWindow
